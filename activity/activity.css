@@ -2,6 +2,11 @@
     margin: 0px;
     padding: 0px;
 }
+body{
+    position: absolute;
+    left: 150px;
+    background-color: #ff5a00;
+}
 #box{
     position: absolute;
     width: 1522px;
@@ -114,7 +119,7 @@ a{
 #top_centre_right_nav{
     position: absolute;
     top: 80px;
-    right: 535px;
+    right: 500px;
     font-size: 4pt;
 }
 #top_centre_right_nav a{

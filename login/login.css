@@ -2,6 +2,11 @@
     margin: 0px;
     padding: 0px;
 }
+body{
+    position: absolute;
+    left: 200px;
+    /*background-color: #ff5a00;*/
+}
 #login{
     position: absolute;
     width: 1522px;
