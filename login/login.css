@@ -1,0 +1,110 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#login{
+    position: absolute;
+    width: 1522px;
+    height: 750px;
+}
+#top{
+    height: 100px;
+    /*width: 1500px;*/
+}
+#top_hdw{
+    position: absolute;
+    left: 270px;
+    width: 150px;
+    height: 50px;
+    top: 20px;
+}
+#centre{
+    background-color: #ff4b1a;
+    /*background:url("./img/login_backdrop.png") ;*/
+    height: 500px;
+    /*width: 1500px;*/
+}
+#centre_left{
+    float: left;
+    height: 100%;
+    width: 761px;
+    /*background-color: blue;*/
+}
+#centre_left_t{
+    position: absolute;
+    left: 320px;
+    top: 128px;
+    width: 330px;
+    height: 37px;
+
+}
+#centre_left_nut{
+    position: absolute;
+    left: 300px;
+    top: 180px;
+    width: 355px;
+    height: 250px;
+}
+#centre_right{
+    float: left;
+    height: 100%;
+    width: 761px;
+    /*background-color: red;*/
+}
+#centre_right_bak{
+    position: absolute;
+    top: 158px;
+    right: 440px;
+    width: 300px;
+    height: 269px;
+    background-color: aliceblue;
+}
+#centre_right_bak_username{
+    /*color: r;*/
+    border: 1px solid #ff4b1a;
+    top: 80px;;
+    position: absolute;
+    left: 50px;
+    height: 25px;;
+}
+#centre_right_bak_password{
+    /*color: #FFF6FC;*/
+    border: 1px solid #ff4b1a;
+    top:127px;
+    position: absolute;
+    left: 50px;
+    height: 25px;;
+}
+#centre_right_bak_btn{
+    color: white;;
+    background-color: #ff4b1a;
+    border: 1px;
+    top:175px;
+    position: absolute;
+    left: 50px;
+    height: 25px;
+    width: 158px;
+}
+#centre_right_bak_img{
+    position: absolute;
+    width: 85px;
+    height: 23px;
+    top: 45px;
+    left: 50px;
+}
+
+#below{
+    position: relative;
+    height: 150px;
+    /*width: 100%;*/
+    /*background-color: aqua;*/
+}
+
+.below_p{
+    /*position: absolute;*/
+    /*bottom: 0px;*/
+    /*right: 0px;*/
+    /*margin: 0px;*/
+    text-align: center;
+}
+
