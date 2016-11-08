@@ -26,7 +26,7 @@ body{
 #centre{
     background-color: #ff4b1a;
     /*background:url("./img/login_backdrop.png") ;*/
-    height: 500px;
+    height: 600px;
     /*width: 1500px;*/
 }
 #centre_left{
@@ -38,7 +38,7 @@ body{
 #centre_left_t{
     position: absolute;
     left: 320px;
-    top: 128px;
+    top: 145px;
     width: 330px;
     height: 37px;
 
@@ -46,7 +46,7 @@ body{
 #centre_left_nut{
     position: absolute;
     left: 300px;
-    top: 180px;
+    top: 200px;
     width: 355px;
     height: 250px;
 }
@@ -58,8 +58,8 @@ body{
 }
 #centre_right_bak{
     position: absolute;
-    top: 158px;
-    right: 440px;
+    top: 180px;
+    right: 250px;
     width: 300px;
     height: 269px;
     background-color: aliceblue;
@@ -112,4 +112,9 @@ body{
     /*margin: 0px;*/
     text-align: center;
 }
+
+
+
+
+
 

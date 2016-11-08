@@ -275,6 +275,10 @@ a{
 .jf{
     color: green;
 }
+.ul_scx{
+    text-decoration: line-through;
+    color: black;
+}
 #dd_btn{
     border: 1px solid red;
     background-color: white;
@@ -342,51 +346,47 @@ a{
     background-color:#dc956e;
 }
 
-#centrecentre_top_left{
-    float: left;
-    height: 250px;
-    width: 361px;
-}
-#centrecentre_top_centre{
-    float: left;
-    height: 250px;
-    width: 800px;
-}
+/*#centrecentre_top_left{*/
+    /*float: left;*/
+    /*height: 250px;*/
+    /*width: 361px;*/
+/*}*/
+/*#centrecentre_top_centre{*/
+    /*float: left;*/
+    /*height: 250px;*/
+    /*width: 800px;*/
+/*}*/
 #centrecentre_top_centre_top_you{
-    /*position: absolute;*/
-    /*left:377px;*/
-    /*top: 2555px;;*/
+    position: relative;
+    left: 100px;
     float: left;
-    width: 200px;
+    width: 350px;
 }
 #centrecentre_top_centre_top_qi{
-    /*position: absolute;*/
-    /*left:590px;*/
-    /*top: 2555px;;*/
+    position: relative;
+    left: 100px;
     float: left;
-    width: 200px;
+    width: 350px;
 
 }
 #centrecentre_top_centre_top_te{
-    /*position: absolute;*/
-    /*left:823px;*/
-    /*top: 2555px;;*/
+    position: relative;
+    left: 100px;
     float: left;
-    width: 200px;
+    width: 350px;
 
 }
 #centrecentre_top_centre_top_tx{
-    /*position: absolute;*/
-    /*left:1056px;*/
-    /*top: 2555px;;*/
+    position: relative;
+    left: 100px;
     float: left;
-    width: 200px;
+    width: 350px;
 }
-#centrecentre_top_right{
-    float: left;
-    height: 250px;
-    width: 361px;
-}
+/*#centrecentre_top_right{*/
+    /*float: left;*/
+    /*height: 250px;*/
+    /*width: 361px;*/
+/*}*/
 .centrecentre_top_centre_top_img{
     float: left;
 }
@@ -407,26 +407,36 @@ a{
     float: left;
     width: 160px;
     height: 130px;
+    position: relative;
+    left: 210px;
 }
 #centrecentre_top_centre_centre_gwbz{
     float: left;
     width: 160px;
     height: 130px;
+    position: relative;
+    left: 280px;
 }
 #centrecentre_top_centre_centre_zffs{
     float: left;
     width: 160px;
     height: 130px;
+    position: relative;
+    left: 350px;
 }
 #centrecentre_top_centre_centre_sjfw{
     float: left;
     width: 160px;
     height: 130px;
+    position: relative;
+    left: 420px;
 }
 #centrecentre_top_centre_centre_sjcs{
     float: left;
     width: 160px;
     height: 130px;
+    position: relative;
+    left: 490px;;
 }
 
 
