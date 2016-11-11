@@ -164,6 +164,7 @@ a{
     width: 200px;
     border-right: 3px solid black;
     height: 50px;
+    z-index: 3;
 }
 #centre_top_centre_3{
     position: relative;
@@ -172,6 +173,8 @@ a{
     width: 200px;
     height: 50px;
     border-right: 3px solid black;
+    z-index: 4;
+
 }
 #centre_top_centre_4{
     position: relative;
@@ -180,6 +183,8 @@ a{
     width: 200px;
     height: 50px;
     border-right: 3px solid black;
+    z-index: 3;
+
 }
 #centre_top_centre_5{
     position: relative;
@@ -188,6 +193,7 @@ a{
     width: 200px;
     height: 50px;
     border-right: 3px solid black;
+    z-index: 3;
 }
 
 .centre_top_centre_g{
@@ -252,6 +258,13 @@ a{
     width: 350px;
     height: 100px;
 }
+.centrecentre_left_p{
+    position: relative;
+    text-align: center;
+    top: 15px;
+    font-size: 20pt;
+    color: #2e43ff;
+}
 #centrecentre_centre{
     float: left;
     width: 800px;
@@ -296,6 +309,10 @@ a{
 #centrecentre_down_jpms_jg{
     height: 400px;
     /*background-color: yellow;*/
+}
+.jpms{
+    width: 338px;
+    height: 257px;
 }
 #centrecentre_down_jpms_jg2{
     height: 400px;
@@ -522,7 +539,7 @@ a{
 }
 
 /*js*/
-
+/*宝贝分类*/
 #centre_top_centre_1_cd ul{
     display: none;
     text-align: center;
@@ -536,18 +553,139 @@ a{
 }
 #centre_top_centre_1 a:hover{
     color: red;
-    background-color: blue;
+    background-color: #ffeb59;
 }
 #centre_top_centre_1_cd ul li a:hover{
     color: green;
-    background-color: #ff5a00;
+    background-color: #49ff5d;
 }
 
 #centre_top_centre_1_cd{
     position: relative;
     width: 200px;
-    height: 350px;
+    height: 300px;
     top: 4px;
+    background-color: #dc956e;
+    display: none;
+}
+
+/*限时抢购*/
+
+#centre_top_centre_1_cd2 ul{
+    display: none;
+    text-align: center;
+    font-size: 15pt;
+    margin: 5px;
+}
+#centre_top_centre_1_cd2 ul li{
+    list-style-type: none;
+    background-color: #dc956e;
+    /*border: 1px solid #ff5a00;*/
+}
+#centre_top_centre_2 a:hover{
+    color: red;
+    background-color: #ffeb59;
+}
+#centre_top_centre_1_cd2 ul li a:hover{
+    color: green;
+    background-color: #49ff5d;
+}
+
+#centre_top_centre_1_cd2{
+    position: relative;
+    width: 200px;
+    height: 370px;
+    top: 4px;
+    background-color: #dc956e;
+    display: none;
+}
+
+/*休闲团购*/
+#centre_top_centre_1_cd3 ul{
+    display: none;
+    text-align: center;
+    font-size: 15pt;
+    margin: 5px;
+}
+#centre_top_centre_1_cd3 ul li{
+    list-style-type: none;
+    background-color: #dc956e;
+    /*border: 1px solid #ff5a00;*/
+}
+#centre_top_centre_3 a:hover{
+    color: red;
+    background-color: #ffeb59;
+}
+#centre_top_centre_1_cd3 ul li a:hover{
+    color: green;
+    background-color: #49ff5d;
+}
+
+#centre_top_centre_1_cd3{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    top: 44px;
+    background-color: #dc956e;
+    display: none;
+}
+
+/*1元疯抢*/
+#centre_top_centre_1_cd4 ul{
+    display: none;
+    text-align: center;
+    font-size: 15pt;
+    margin: 5px;
+}
+#centre_top_centre_1_cd4 ul li{
+    list-style-type: none;
+    background-color: #dc956e;
+    /*border: 1px solid #ff5a00;*/
+}
+#centre_top_centre_4 a:hover{
+    color: red;
+    background-color: #ffeb59;
+}
+#centre_top_centre_1_cd4 ul li a:hover{
+    color: green;
+    background-color: #49ff5d;
+}
+
+#centre_top_centre_1_cd4{
+    position: relative;
+    width: 200px;
+    height: 250px;
+    top: 44px;
+    background-color: #dc956e;
+    display: none;
+}
+
+/*满减平淡*/
+#centre_top_centre_1_cd5 ul{
+    display: none;
+    text-align: center;
+    font-size: 15pt;
+    margin: 5px;
+}
+#centre_top_centre_1_cd5 ul li{
+    list-style-type: none;
+    background-color: #dc956e;
+    /*border: 1px solid #ff5a00;*/
+}
+#centre_top_centre_5 a:hover{
+    color: red;
+    background-color: #ffeb59;
+}
+#centre_top_centre_1_cd5 ul li a:hover{
+    color: green;
+    background-color: #49ff5d;
+}
+
+#centre_top_centre_1_cd5{
+    position: relative;
+    width: 200px;
+    height: 300px;
+    top: 44px;
     background-color: #dc956e;
     display: none;
 }

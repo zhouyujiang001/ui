@@ -268,12 +268,34 @@ a{
     width: 622px;
     /*background-color: #ff4b1a;*/
 }
+/*#indent_indent_top_left_top{*/
+    /*position: relative;*/
+    /*width: 622px;*/
+    /*height: 460px;*/
+/*}*/
 #indent_indent_top_left_img1{
-    position: relative;
-    top: 50px;
+    position:absolute;
+    top: 170px;
     left: 150px;
     width: 430px;
     height: 400px;
+    display: block;
+}
+#indent_indent_top_left_img5{
+    position: absolute;
+    top: 170px;
+    left: 150px;
+    width: 430px;
+    height: 400px;
+    display: none;
+}
+#indent_indent_top_left_img6{
+    position: absolute;
+    top: 170px;
+    left: 150px;
+    width: 430px;
+    height: 400px;
+    display: none;
 }
 #indent_indent_top_left_img2{
     position: absolute;
