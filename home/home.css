@@ -27,7 +27,7 @@ body{
 }
 #centrecentre_down{
     height: 2850px;
-    background-color: #dc956e;
+    background-color: white;
 }
 #below{
     height: 131px;
@@ -291,7 +291,7 @@ a{
 }
 
 #centrecentre_down_jpms{
-    /*background-color: aqua;*/
+    background-color: #dc956e;
     height: 1300px;
 }
 #centrecentre_down_xsqg{
@@ -364,6 +364,9 @@ a{
     font-weight: 900;
     background-color:#ff5a00 ;
     color:red;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
 }
 
 
@@ -377,6 +380,7 @@ a{
 }
 #centrecentre_down_xsqg_img{
     height: 200px;
+    /*background-color: #dc956e;*/
 }
 #centrecentre_down_xsqg_jg{
     height: 400px;
@@ -432,6 +436,9 @@ a{
     font-weight: 900;
     background-color:#ff5a00 ;
     color:red;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
 }
 
 

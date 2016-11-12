@@ -527,3 +527,49 @@ a{
 .base_top{
     text-align: center;
 }
+
+
+/*js*/
+#indent_indent_top_denglu{
+    position: absolute;
+    top: 180px;
+    right: 520px;
+    width: 375px;
+    height: 350px;
+    background-color: #ccb8cc;
+    display: none;
+}
+
+#centre_right_bak_img{
+    position: absolute;
+    width: 85px;
+    height: 23px;
+    top: 40px;
+    left: 96px;
+}
+#centre_right_bak_username{
+    /*color: r;*/
+    border: 2px solid #ff4b1a;
+    top: 80px;;
+    position: absolute;
+    left: 100px;
+    height: 40px;;
+}
+#centre_right_bak_password{
+    /*color: #FFF6FC;*/
+    border: 2px solid #ff4b1a;
+    top:137px;
+    position: absolute;
+    left: 100px;
+    height: 40px;;
+}
+#centre_right_bak_btn{
+    color: white;;
+    background-color: #ff4b1a;
+    border: 1px;
+    top:195px;
+    position: absolute;
+    left: 100px;
+    height: 25px;
+    width: 169px;
+}

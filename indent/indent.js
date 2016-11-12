@@ -27,3 +27,12 @@ img4.onclick=function(){
     img1.style.display="none";
     img6.style.display="block";
 }
+
+
+
+
+var denglu = document.getElementById("denglu");
+var xianshi = document.getElementById("indent_indent_top_denglu");
+denglu.onclick=function(){
+   xianshi.style.display="block";
+}
