@@ -536,7 +536,7 @@ a{
     right: 520px;
     width: 375px;
     height: 350px;
-    background-color: #ccb8cc;
+    background-color: #efe3ef;
     display: none;
 }
 
@@ -546,6 +546,10 @@ a{
     height: 23px;
     top: 40px;
     left: 96px;
+}
+#indent_indent_top_dengluguanbi{
+    position: absolute;
+    right: 0px;
 }
 #centre_right_bak_username{
     /*color: r;*/

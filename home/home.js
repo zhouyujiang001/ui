@@ -2,6 +2,7 @@
  * Created by Administrator on 2016/11/10.
  */
 
+//下拉菜单
 
 //宝贝分类
 var bbfl = document.getElementById("centre_top_centre_g_id");
@@ -157,7 +158,7 @@ superior5.onmouseout=function(){
     g5.style.display="none"
 }
 
-
+//购物券领取
 
 var gwj3 =document.getElementById("gwj3");
 var gwj10 =document.getElementById("gwj10");
